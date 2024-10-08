@@ -7,6 +7,7 @@ Change the URL to https://localhost:0000/GraphQL and then you'll access it.
 Once here you go to Operation and write the query so it can access your backend query in Server.
 
 Query that you would write in the URL once you've accessed graphql looks like this:
+You cna just coppy everything from "query down to the last } and paste it into graphql and it should work aslong as you connected the application to a database
 
 To fetch one single user where userId here is the parameter you send in. Its a guid in this instance
 
